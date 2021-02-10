@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Mojang';
+    src: url(../fonts/Mojangles.ttf)
+}
+.mojangfont{
+     font-family: 'Mojang';
